@@ -20,12 +20,12 @@ Create an Azure AI Search service with sample data from the real estate database
   - [X] A second button that will display the current time.
   - [X] A second empty div with an ID of 'time'.
 - CSS:
-  - [ ] Set the background of the 'facetPanel' div to an image of your choice. ([Unsplash](unsplash.com) is a great resource for free images)
+  - [X] Set the background of the 'facetPanel' div to an image of your choice. ([Unsplash](unsplash.com) is a great resource for free images)
   - [ ] Style the rest of the page however you see fit. Points will be lost if little or no effort is given in styling your site.
 - JS:
-  - [ ] Replace YOUR_SERVICE_NAME, YOUR_INDEX_NAME, and YOUR_QUERY_API_KEY with what you get from Azure.
+  - [X] Replace YOUR_SERVICE_NAME, YOUR_INDEX_NAME, and YOUR_QUERY_API_KEY with what you get from Azure.
   - [ ] Write a function that changes the background image of your site on a click of your search engine name. You can cycle through a set of pre-defined images or randomly select one.
-  - [ ] Write a function that gets the current time (formatted HH:MM), loads the result into your 'time' div, and displays the div as a JQuery UI dialog window on a click of your time button.
+  - [X] Write a function that gets the current time (formatted HH:MM), loads the result into your 'time' div, and displays the div as a JQuery UI dialog window on a click of your time button.
 - BONUS:
   - [ ] Implement a 'I'm feeling lucky' button. This button should randomly select only ONE home from the applicable results and display that one home in the results area.
   - [ ] Modify the function that changes your background image so that each click cycles through different images without refreshing the page.
