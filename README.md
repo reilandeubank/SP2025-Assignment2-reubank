@@ -28,7 +28,7 @@ Create an Azure AI Search service with sample data from the real estate database
   - [X] Write a function that gets the current time (formatted HH:MM), loads the result into your 'time' div, and displays the div as a JQuery UI dialog window on a click of your time button.
 - BONUS:
   - [ ] Implement a 'I'm feeling lucky' button. This button should randomly select only ONE home from the applicable results and display that one home in the results area.
-  - [ ] Modify the function that changes your background image so that each click cycles through different images without refreshing the page.
+  - [X] Modify the function that changes your background image so that each click cycles through different images without refreshing the page.
 - Deploy your site to Azure, following the instructions provided on Blackboard.
 
 > It is best to take this little pieces at a time, step by step, as not to get confused by too many things at once. W3 Schools is an amazing resource, and has examples on everything above if you get stuck.
