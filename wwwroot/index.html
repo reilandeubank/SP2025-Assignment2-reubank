@@ -197,7 +197,8 @@
                 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c'
             ];
 
-            let currentImageIndex = -1;
+            // sets a random start index
+            let currentImageIndex = Math.floor(Math.random() * backgroundImages.length) - 1;
 
             function changeBackground() {
                 currentImageIndex = (currentImageIndex + 1) % backgroundImages.length;
